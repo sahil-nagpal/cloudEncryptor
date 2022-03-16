@@ -1,0 +1,10 @@
+{
+"manifest_version": 3,
+"name": "Cloud encrypter",
+"description": "To encrypt and decrypt your files",
+"version": "1.0",
+"action": {
+"default_icon": "assets/img/download.png",
+"default_popup": "popup.html"
+}
+}
